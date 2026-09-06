@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-hello I am a studen purchasing B.Tech<br>and I curious In learning about cybersecurity<br>and web development
+hello I am a student purchasing B.Tech<br>and I curious In learning about cybersecurity<br>and web development
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=h4ckarch&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
