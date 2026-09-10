@@ -13,13 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-hello I am a student purchasing B.Tech<br>and I curious In learning about cybersecurity<br>and web development
+hello I am a student purchasing B.Tech and I curious In learning about cybersecurity<br>and web development
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=h4ckarch&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=h4ckarch&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Currently:
 
----
-[![](https://komarev.com/ghpvc/?username=h4ckarch&icon=0&color=0)](https://visitcount.itsvg.in)
+learn basic from open source 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
