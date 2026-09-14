@@ -18,6 +18,3 @@ hello I am a student purchasing B.Tech and I curious In learning about cybersecu
 # Currently:
 
 learn basic from open source 
-
-## 🏆 Achievements
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
