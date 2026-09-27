@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-hello I am a student purchasing B.Tech and I curious In learning about cybersecurity<br>and web development
-
-# Currently:
-
-learn basic from open source 
+hello I am a student purchasing B.Tech and I curious In learning about cybersecurity<br>and web developmen
