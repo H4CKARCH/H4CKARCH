@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-hello I am a student purchasing B.Tech and I curious In learning about cybersecurity<br>and web developmen
+hello I am a student purchasing B.Tech and I curious In learning about cybersecurity
