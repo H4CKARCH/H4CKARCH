@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 hello I am a student purchasing B.Tech and I curious In learning about cybersecurity
+
+Name: THALATHOTI CREESTU ACHARI
+
+Role: student
+
+Course: B.Tech
+
+Collage: NRIIT
+
+# skills learned
+
+termux,linux,git
+
+# skills learning currently 
+
+nmap
